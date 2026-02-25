@@ -1,3 +1,3 @@
 <<<<<<< HEAD
-soemthing here
-
+soemthing there
+New feauture 
